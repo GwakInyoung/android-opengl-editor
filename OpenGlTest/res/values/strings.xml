@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenGlTest</string>
+    <string name="shape_prompt">Choose a shape</string>
+    <string-array name="shape_array">
+        <item>triangle</item>
+        <item>square</item>
+    </string-array>
+
+</resources>
