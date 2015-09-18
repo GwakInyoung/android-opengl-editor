@@ -2,15 +2,17 @@
 opengl editor made by android opengles
 
 
-# 1. color pick
+1. color pick
 
-<img src="C:\Users\inyoung\Desktop\pictureTest\colorPick" width="100" height="200">
+<img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/colorPick.bmp">
 
-# 2. shape pick
+2. shape pick
 
-<img src="C:\Users\inyoung\Desktop\pictureTest\colorPick" width="100" height="200">
+<img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/shapePick.bmp">
 
-# 3. flat, gouraud shading
+3. flat, gouraud shading
 
-<img src="C:\Users\inyoung\Desktop\pictureTest\colorPick" width="100" height="200">
+<img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/flatShading.bmp">
+
+<img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/gouraudShading.bmp">
 
