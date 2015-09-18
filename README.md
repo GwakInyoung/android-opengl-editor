@@ -6,11 +6,11 @@ opengl editor made by android opengles
 
 <img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/colorPick.bmp">
 
-2. shape pick
+<strong>2. shape pick</strong>
 
 <img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/shapePick.bmp">
 
-3. flat, gouraud shading
+<strong>3. flat, gouraud shading</strong>
 
 <img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/flatShading.bmp">
 
