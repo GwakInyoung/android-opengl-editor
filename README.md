@@ -2,7 +2,7 @@
 opengl editor made by android opengles
 
 
-1. color pick
+<font size="30"> 1. color pick</font>
 
 <img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/colorPick.bmp">
 
