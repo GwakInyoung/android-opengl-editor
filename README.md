@@ -16,3 +16,5 @@ opengl editor made by android opengles
 
 <img src="https://raw.githubusercontent.com/GwakInyoung/android-opengl-editor/master/picture/gouraudShading.bmp">
 
+
+<strong> 4. rotate, scale
